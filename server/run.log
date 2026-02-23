@@ -1,0 +1,5 @@
+
+> server@1.0.0 start
+> PORT=5001 node index.js
+
+Server running on 5001

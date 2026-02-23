@@ -1,0 +1,10 @@
+
+> server@1.0.0 start
+> PORT=5001 node index.js
+
+Server running on 5001
+Room created MXND7 by z1XNQXVPw5-kkHQCAAAD
+Socket o4OErM4LWvFo2MNtAAAF joined room MXND7
+Join failed: room 1 not found (socket gayl1rdJrbTccA2lAAAH)
+Join failed: room 1 not found (socket Qx6H38_OJ_0h7jkRAAAJ)
+Join failed: room 1 not found (socket 9KG5Kv9PfTOJJZATAAAL)
